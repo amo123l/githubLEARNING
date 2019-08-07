@@ -1,0 +1,13 @@
+stm_bm(["menu1b84",960,"","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","",0,0,1,2,"default","hand","",1,25],this);
+stm_bp("p0",[1,4,0,0,1,6,0,7,100,"progid:DXImageTransform.Microsoft.Blinds(bands=8,direction=DOWN,enabled=0,Duration=0.60)",9,"",-2,50,0,0,"#999999","transparent","",3,0,0,"#000000"]);
+stm_ai("p0i0",[0,"My Assigned Tickets","","",-1,-1,0,"my-assign-ticket.jsp","executive","","","","",0,0,0,"","",0,0,0,0,1,"#0099CC",1,"#B6E7FF",1,"round16_m[1].gif","round02_m.gif",3,3,0,0,"#E6EFF9","#000000","#FFFFFF","#000000","9pt Verdana","9pt Verdana",0,0,"round16_l[1].gif","round02_l.gif","round16_r[1].gif","round02_r.gif",8,8,26]);
+stm_aix("p0i1","p0i0",[0,"View Plan","","",-1,-1,0,"viewplan.jsp"]);
+stm_aix("p0i2","p0i0",[0,"Escalate Querry","","",-1,-1,0,"escalate-query.jsp"]);
+stm_aix("p0i3","p0i0",[0,"FAQ","","",-1,-1,0,"faq.jsp"]);
+stm_aix("p0i4","p0i0",[0,"Create Ticket","","",-1,-1,0,"create-tickets-mobno.jsp"]);
+stm_aix("p0i5","p0i0",[0,"My Profile","","",-1,-1,0,"my-profile.jsp"]);
+stm_aix("p0i6","p0i0",[0,"Report","","",-1,-1,0,"report.html"]);
+stm_aix("p0i7","p0i0",[0,"Customer services","","",-1,-1,0,"customerservic-mobno.jsp","executive","","","","",0,0,0,"","",7,7]);
+stm_ep();
+stm_sc(1,["#0099CC","#ABE5F9","","",3,3,0,0,"#FFFFF7","#000000","up_disabled.gif","up_enabled.gif",7,9,0,"down_disabled.gif","down_enabled.gif",7,9,0,0,200]);
+stm_em();
